@@ -1,5 +1,5 @@
 import React from "react";
-const streamList = () => {
+const StreamList = () => {
   return <div>StreamList</div>;
 };
 

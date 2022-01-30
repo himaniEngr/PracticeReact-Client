@@ -1,5 +1,5 @@
 import React from "react";
-const streamDelete = () => {
+const StreamDelete = () => {
   return <div>StreamDelete</div>;
 };
 

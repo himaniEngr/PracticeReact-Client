@@ -1,5 +1,5 @@
 import React from "react";
-const streamEdit = () => {
+const StreamEdit = () => {
   return <div>StreamEdit</div>;
 };
 
