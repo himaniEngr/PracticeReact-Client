@@ -5,7 +5,7 @@ const PageOne = () => {
   return (
     <div>
       PageOne
-      <Link to="/pagetwo">Navigate to page two</Li>
+      <Link to="/pagetwo">Navigate to page two</Link>
     </div>
   );
 };
